@@ -19,7 +19,7 @@ Git
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/bibhusitabehera98/todo-app.git
+git clone [https://github.com/bibhusitabehera98/Todo_app.git]
 
 2. Navigate into the project folder:
 
