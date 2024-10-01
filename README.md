@@ -45,18 +45,30 @@ Technologies Used
 React - Frontend library
 Vite - Build tool
 JavaScript - Programming language
-## Contributing
-Contributions are welcome! Please follow these steps:
-
-## Fork the repository.
-Create a new branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m 'Add your feature').
-Push to the branch (git push origin feature/your-feature).
-Open a pull request.
-License
-This project is open-source and available under the MIT License.
 
 ## Acknowledgements
 React and Vite documentation
 Open-source community
+
+## Output
+
+### Images
+
+![Screenshot 2024-10-01 073643](https://github.com/user-attachments/assets/0d95a497-baa2-4053-9ee9-f4c92379bb7a)
+
+![Screenshot 2024-10-01 073736](https://github.com/user-attachments/assets/a653420e-ff5f-4465-bdb8-3234f99aced9)
+
+
+![Screenshot 2024-10-01 073845](https://github.com/user-attachments/assets/8f0d28b3-2dda-4e43-96b4-6fdd48d4e366)
+
+### Video
+
+
+https://github.com/user-attachments/assets/c2996134-39c9-40be-8e2c-b75dc1cb6082
+
+
+
+
+
+
 
